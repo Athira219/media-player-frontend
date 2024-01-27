@@ -8,7 +8,7 @@ return(
             <div className='websites' style={{width:'400px'}}>
             <h4 className='mb-3' >
             <i class="fa-solid fa-video text-warning me-3"></i>
-            Media Player
+            Video Player
             </h4>
             <h6 style={{textAlign:'justify',color:'white'}}>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
                 Rerum eum, distinctio nihil consequatur aperiam molestiae velit officiis ducimus assumenda similique. </h6>
